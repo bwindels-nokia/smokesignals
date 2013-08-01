@@ -1,0 +1,8 @@
+{
+  "name": "smokesignals",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "A text-over-TCP client server library",
+  "main": "./lib/index.js",
+  "dependencies" : {}
+}
